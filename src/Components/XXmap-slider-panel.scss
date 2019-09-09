@@ -1,0 +1,126 @@
+@import '../colours';
+
+.slider-wrap{
+	cursor: pointer;
+	float: left;
+}
+
+.slider-wrap p{
+}
+
+
+
+.date-range-wrap{
+	width: 100%;
+}
+
+.open-slider-btn{
+	float: left;
+}
+
+.open-slider-btn p{
+	float: left;
+	display: inline-block;
+	font-size: 16px;
+	font-weight: 550;
+
+	color: white;
+	margin-top: 5px;
+	margin-bottom: 0px !important;
+}
+
+.dropdown{
+	float: left;
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
+.dropdown button p{
+	float: left;
+	margin: 0px;
+	font-weight: 500;
+  	font-size: 16px;
+}
+
+.dropdown button{
+	float: left;
+	margin-top: 8px;
+	padding: 4px !important;
+	border: 1px solid $color_blue !important;
+	background-color: rgba(255,255,255,0.2) !important;
+}
+
+
+.dropdown-toggle p{
+	color: white !important;
+}
+.caret{
+	color: white;
+}
+
+.dropdown-menu p{
+	color: black !important;
+	padding: 0px !important;
+	font-weight: 400 !important;
+	height: 25px !important;
+}
+
+.dropdown-menu li a{
+	padding: 3px !important;
+}
+
+
+#open-slider-images{
+	float: left;
+}
+
+
+.back-arrow{
+	float: left;
+	height: 20px;
+	margin-left: 10px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.back-arrow:nth-child(2){
+	position: relative;
+	left: -22px;
+}
+
+.img-calendar{
+	height: 20px;
+	margin: 5px;
+	position: relative;
+	left: -12px;
+}
+
+.img-calendar-dropdown{
+	height: 20px;
+	margin: 5px;
+}
+
+.map-slider-class{
+    z-index: 13;
+}
+
+
+
+.rdt{
+	margin-bottom: 10px;
+	width: 100%;
+	float: left;
+}
+
+.date-range-wrap .rdt:nth-child(1)::before {
+  content: "from"
+}
+
+.date-range-wrap .rdt:nth-child(2)::before {
+  content: "to"
+}
+
+.date-range-wrap .rdt:nth-child(1) p {
+  margin-left: 50px;
+}
+

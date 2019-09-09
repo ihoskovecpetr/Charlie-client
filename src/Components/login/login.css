@@ -1,0 +1,76 @@
+#login-wrap{
+	width: 100%;
+	top: 0;
+	text-align: center;
+	background-color: rgba(0,0,0,0.7);
+	position: absolute;
+	z-index: 20;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+}
+
+#grid-login{
+	display: block;
+	width: 250px;
+	z-index: 20;
+	position: fixed;
+	margin-top: 70px;
+	padding: 0px;
+	padding-top: 4px;
+    left: 0;
+    right: 0;
+	background-color: white;
+
+}
+
+#grid-login button{
+margin-bottom: 10px;
+}
+
+
+#Row0-login{
+}
+
+#col-row0-login{
+	margin-bottom: 20px;
+}
+
+#col-row0-login h1{
+color: black;
+margin-top: 11px;
+margin-bottom: 10px;
+font-size: 22px;
+
+}
+
+#col-row0-login p{
+font-size: 14px;
+font-weight: 300;
+}
+
+#col-row0-login button{
+margin-top: 10px;
+
+}
+
+.col-white-space-login{
+	padding-bottom: 40px;
+}
+
+.btn-fake-albert{
+	width: 205px;
+	height: 50px;
+	background-color: #FDDC27;
+	font-size: 16px;
+	font-weight: 400;
+}
+
+
+@media (max-width: 400px){
+
+  #grid-login{
+  max-width: 100%;
+}
+}

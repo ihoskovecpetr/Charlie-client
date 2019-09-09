@@ -1,0 +1,170 @@
+
+
+.slider-location{
+  overflow: auto;
+  border-top: 1px solid lightgrey;
+}
+
+.slider-location p{
+  font-size: 16px;
+  color: grey;
+}
+
+.slider-location-body{
+
+  box-shadow: 3px 3px 6px lightgrey;
+  overflow: hidden;
+  background-color: white;
+}
+
+.slider-location-body h1{
+  padding: 5px;
+  margin: 0px;
+  font-size: 18px;
+  text-align: center;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  color: #4A4848;
+  font-weight: 500;
+}
+
+.slider-location-body h2{
+  padding-left: 30px;
+  margin: 0px;
+  font-size: 16px;
+  text-align: center;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  color: grey;
+  font-weight: 300;
+  text-decoration: none;
+}
+
+.slider-location-body:hover{
+  text-decoration: none;
+}
+
+
+.slider-location-body p{
+  padding: 5px;
+  margin: 0px;
+  font-size: 16px;
+  float: left;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  color: #4A4848;
+  font-weight: 600;
+  color: grey;
+}
+
+.location-img{
+  width: 35%;
+  height: 120px;
+  overflow: hidden;
+  display: inline-block;
+  float: left;
+}
+.zero-img-profile-wrapper{
+  width: 0px;
+  height: 0px;
+  float: left;
+}
+
+.zero-img-profile{
+  position: relative;
+  display: inline-block;
+  float: left;
+  left: -25px;
+  top: 35px;
+  border-radius: 25px;
+  height: 50px;
+  width: 50px;
+  box-shadow: 0px 0px 0px white;
+  border: 2px solid white;
+
+}
+
+.line-uno{
+  overflow: auto;
+  height: 30px;
+  padding-left: 20px;
+}
+
+.line-uno p{
+  display: inline-block;
+}
+
+.line-uno p:nth-child(2){
+  float: right;
+}
+
+.line-dos{
+  overflow: auto;
+  height: 30px;
+  padding-left: 20px;
+}
+
+.line-tres{
+  overflow: auto;
+  height: 20px;
+  padding-left: 20px;
+}
+
+.line-quatro{
+  overflow: auto;
+  height: 40px;
+  padding-left: 20px;
+}
+
+.line-quatro .guests-wrap{
+  float: left;
+  height: 40px;
+  max-width: 30%;
+  display: inline-block;
+    overflow: hidden;
+}
+
+.line-quatro .open-map-mark{
+  height: 40px;
+  width: 40px;
+  padding: 3px;
+  float: right;
+}
+
+.img-guest-wrap{
+  height: 20px;
+  width: 20px;
+  margin-top: 0px;
+  margin-bottom: 20px;
+  display: inline-block;
+  float: left;
+}
+
+.line-quatro .img-guest{
+  height: 30px;
+  width: 30px;
+  border: 0px solid white;
+  margin-top: 5px;
+  margin-bottom: 5px; 
+  border: 2px solid white;
+}
+
+.line-quatro .att-wrap{
+  width: 40%;
+  display: inline-block;
+}
+
+.line-quatro .att-wrap p{
+  width: 100%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+
+
+
+

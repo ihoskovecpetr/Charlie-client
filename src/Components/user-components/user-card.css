@@ -1,0 +1,112 @@
+.user-card{
+
+	padding-left: 0px;
+	padding-right: 0px;
+	padding: 10px;
+	padding-top: 0px;
+
+}
+
+.user-card-left{
+	width: 20%;
+	display: inline-block;
+	float: left;
+	height: 80px;
+	background-color: #600328;
+	border-top-left-radius: 10px;
+	border-bottom-left-radius: 10px;
+/*	box-shadow: 2px 2px 2px grey;*/
+
+}
+
+.user-card-right{
+	width: 80%;
+	float: left;
+	height: 80px;
+	background-color: #600328;
+	border-top-right-radius: 10px;
+	border-bottom-right-radius: 10px;
+/*	box-shadow: 2px 2px 3px grey;*/
+
+}
+
+.img-host{
+	border-radius: 25px;
+	margin-top: 15px;
+	margin-left: 5px;
+	height: 50px;
+	width: 50px;
+	min-width: 50px;
+	display: inline-block;
+}
+
+.col-stars-host{
+	float: right;
+	text-align: left;
+}
+
+/*#paragraph-wrap{
+  display: table;
+  width: 100%;
+  height: 50px;
+}
+
+#paragraph-wrap2{
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+}
+
+#paragraph-wrap2 p{
+	font-size: 16px;
+	margin: 0;
+	display: inline-block;
+	color: white;
+}
+*/
+#star-rating-paragraph{
+
+	margin-top: 0px;
+	margin-bottom: 0px;
+	width: 100%;
+	position: relative;
+	top: -10px;
+	float: left;
+}
+
+#star-rating-paragraph-wrap{
+	display: inline-block;
+
+}
+
+#star-rating-paragraph p{
+	font-size: 15px;
+	display: inline-block;
+	float: left;
+	font-weight: 500;
+	color: lightgrey;
+	margin-bottom: 0;
+}
+
+#star-rating-paragraph p:nth-child(2){
+	font-weight: 700;
+	color: white;
+	margin-bottom: 0px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+#star-rating-stars{
+	font-size: 43px;
+	display: inline-block;
+}
+
+.dv-star-rating label{
+	font-size: 33px;
+}
+
+
+
+
+
+

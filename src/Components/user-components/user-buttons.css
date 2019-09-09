@@ -1,0 +1,184 @@
+
+
+.col-user-buttons{
+	width: 330px;
+	margin-bottom: 0px;
+	margin-left: -15px;
+	margin-right: -15px;
+	border-top: 0px solid grey;
+	float: left;
+	position: absolute;
+}
+.col-user-buttons button{
+	border: 0px;
+	border-radius: 0px;
+	background-color: #600328;
+}
+
+.col-user-buttons button:hover{
+	background-color: white;
+	color: black;
+}
+.btn-alone{
+	width: 100%;
+	color: white;
+}
+
+
+.btn-couple{
+	width: 50%;
+	color: white;
+}
+
+.btn-couple p:nth-child(1){
+	float: left;
+	margin: 0 !important;
+	height: 20px;
+	width: 80%;
+	font-weight: 400;
+	text-align: left;
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+}
+
+
+.col-user-buttons button p:nth-child(2){
+	color: yellow;
+	margin: 0 !important;
+	float: right;
+}
+
+.col-user-buttons .btn-couple:nth-child(2){
+	border-left: 1px solid white;
+}
+
+.alert-rating{
+  text-align: center;
+
+  padding-bottom: 10px;
+}
+
+
+.alert-rating h2{
+  font-weight: 200;
+  background-color: white;
+  margin: 0px;
+  padding: 10px;
+}
+
+.host-rated{
+	background-color: white;
+	width: 100%;
+	display: inline-block;
+}
+
+.host-rated img{
+	display: inline-block;
+	float: left;
+	height: 40px;
+	border-radius: 20px;
+	margin: 6px;
+}
+
+.host-rated p{
+	display: inline-block;
+	float: left;
+	padding: 5px;
+}
+
+.alert-rating p{
+  font-weight: 300;
+  background-color: lightgrey;
+  text-align: left;
+  padding-left: 12px;
+  color: grey;
+}
+
+.star-modal-wrap{
+	font-size: 40px;
+	text-align: center;
+	background-color: white;
+}
+
+.alert-inquiry{
+	text-align: center;
+}
+
+.alert-inquiry ul{
+	text-align: left;
+	list-style-type: circle;
+}
+
+.alert-inquiry ul li h2{
+	font-size: 18px;
+	text-align: left;
+	margin-top: 20px;
+	display: inline-block;
+}
+
+.alert-inquiry ul li h1{
+	display: inline-block;
+}
+.alert-inquiry ul li p{
+	display: inline-block;
+}
+.alert-inquiry ul li input{
+	background-color: white;
+	border-radius: 5px;
+	margin-top: 5px;
+}
+
+.inquiry-error{
+	background-color: red;
+}
+
+.inquiry-error p{
+	font-size: 20px;
+	color: white;
+	font-weight: 500;
+}
+
+.inquiry-success{
+	background-color: green;
+}
+
+.inquiry-success p{
+	font-size: 20px;
+	color: white;
+	font-weight: 500;
+}
+
+
+.profile-pic-ask{
+	height: 40px;
+	width: 40px;
+	border-radius: 20px;
+}
+
+
+#ratingComment{
+	margin-bottom: 10px;
+}
+
+.email-sending-alert{
+}
+
+.email-sending-alert p{
+	margin: 5px;
+	text-align: center;
+}
+
+.email-sending-alert img{
+	margin: 5px;
+}
+
+.close-line-btn{
+	width: 100%;
+	text-align: right;
+}
+
+.alert-profile-img-wrap{
+	width: 100%;
+	text-align: center;
+}

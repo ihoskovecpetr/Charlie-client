@@ -1,0 +1,45 @@
+
+.row-get-in-touch{
+}
+
+.col-in-touch-top{
+  background-color: #242323;
+  width: 100%;
+  padding: 0px;
+  text-align: center;
+  padding-top: 40px;
+}
+
+.col-in-touch-top h1{
+  color: white;
+  font-size: 20px;
+  text-align: center;
+}
+
+.col-in-touch-top p{
+  color: white;
+  font-size: 18px;
+  text-align: center;
+}
+
+.col-in-touch-top img{
+  width: 100%;
+}
+
+.touch-icons{
+  display: inline-block;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.touch-icons img{
+  height: 30px;
+  width: 30px;
+  display: inline-block;
+  margin: 15px;
+
+}
+
+.col-in-touch-bottom{
+  text-align: center;
+}

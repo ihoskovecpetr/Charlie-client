@@ -1,0 +1,271 @@
+.black {
+  width: 100%;
+  margin: 0px;
+  position: relative;
+  border-top-right-radius: 20px;
+  border-top-left-radius: 20px;
+
+}
+
+
+.black p {
+	padding: 0;
+	font-size: 15px;
+	margin-bottom: 0px;
+
+}
+
+.grid-infowindow{
+	padding: 0px;
+	width: 100%;
+	text-align: left !important;
+}
+
+#logo-left{
+	height: 40px;
+	width: 40px;
+	float: left;
+	border-radius: 0 !important;
+	margin: 10px;
+	display: block;
+}
+
+.infow-nadpis{
+	float: left;
+	overflow-x: hidden;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.infow-nadpis p{
+	font-weight: 400;
+	text-align: left;
+	color: grey;
+}
+
+
+.black-line-infobubble{
+	display: inline-block;
+  	width: 180px;
+  	margin-left: 10px;
+  	border-bottom: 1px solid lightgrey;
+  	position: relative;
+}
+
+#info-text{
+	float: left;
+	margin-top: 10px;
+}
+
+#info-text ul{
+	width: 120px;
+	margin-left: -10px;
+}
+
+#info-text img{
+	height: 20px;
+	width: 20px;
+	border-radius: 10px;
+	float: left;
+	margin-right: 5px;
+}
+
+.nadpis-wrap{
+	display: inline-block;
+}
+
+.nadpisInfo{
+	position: relative;
+	float: left;
+	width: 100%;
+	display: block;
+}
+
+.nadpisInfo p{
+	margin-top: 10px;
+	font-size: 25px;
+	font-weight: 450;
+
+	display: inline-block;
+}
+
+.infow-col-guests{
+	padding-left: 2px;
+	padding-right: 2px;
+}
+
+
+.grey-button{
+	color: black;
+	float: left;
+	width: 70px;
+	height: 27px;
+	margin-top: 10px;
+	display: table-cell;
+	vertical-align: middle;
+}
+
+.grey-button:hover{
+	background-color: grey !important;
+}
+
+.grey-button button{
+	width: 70px;
+	display: inline-block;
+	height: 27px;
+}
+
+.capacityInfo{
+	position: relative;
+	float: left;
+	width: 100%;
+}
+.capacityInfo p{
+	margin-top: 5px;
+	font-size: 18px;
+	font-weight: 400;
+}
+
+.guests-wrap-infow{
+	padding: 5px;
+	padding-left: 15px;
+}
+
+.guest-infowindow img{
+	height: 30px;
+	border-radius: 15px;
+	display: inline-block;
+	float: left;
+}
+
+.capacity-guest-infoB-wrapper{
+	margin-top: 10px;
+	width: 60%;
+	float: right;
+}
+
+.capacity-guest-infoB-wrapper p{
+	position: relative;
+	top: 4px;
+	display: inline-block;
+	margin: 0;
+	font-size: 18px;
+	margin-left: 5px;
+}
+
+
+.capacity-guest-infoB {
+	display: inline-block;
+}
+
+.capacity-guest-infoB img{
+	height: 30px !important;
+	width: 30px !important;
+	display: inline-block;
+}
+
+
+.col-free-stuff p{
+	text-align: left;
+}
+
+
+.descriptionInfo{
+	position: relative;
+	float: left;
+	width: 100%;
+	margin-bottom: 5px;
+}
+
+.adressInfo{
+	float: left;
+	width: 100%;
+	cursor: pointer; 
+}
+.adressInfo:hover{
+	background-color: rgba(97, 216, 84,0.1);
+}
+
+#gps-img{
+	float: right;
+	display: inline-block;
+	height: 30px;
+}
+
+.adressInfo div p{
+	font-size: 16px;
+	font-weight: 400;
+	text-align: left;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	margin-right: 5px;
+}
+
+.priceInfo{
+	float: left;
+	width: 100%;
+}
+
+.priceInfo p{
+	font-size: 16px;
+	float: left;
+}
+
+.dateInfo{
+	float: left;
+	width: 100%;	
+}
+
+.dateInfo p{
+	font-size: 13px;	
+}
+
+.col-host-card{
+	padding: 0px;
+}
+
+
+#star-rating{
+	font-size: 22px;
+}
+
+.dv-star-rating{
+
+}
+
+
+.infoButts{
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+
+#top-half{
+	max-height: 100px;
+	width: 200px;
+	background-color: rgba(255,255,255,0.5);
+	overflow: scroll;
+}
+
+#top-half .bil-image{
+	display: block !important;
+}
+
+.bottom-half{
+	border-top: 1px solid lightgrey;
+	background-color: rgba(255,255,255,0.0);
+}
+
+.lg-btn-wrap .glyphicon-plus{
+	float: left;
+}
+
+.lg-btn-wrap button{
+	margin: 2%;
+ 	width: 96%;
+}
+
+
+
+
+
