@@ -24,7 +24,7 @@
     "googlemaps-v3-utility-library-latest": "^1.0.1",
     "history": "^4.7.2",
     "i": "^0.3.6",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "material-icons-react": "^1.0.4",
     "materialize-css": "^1.0.0-rc.2",
     "moment": "^2.24.0",
