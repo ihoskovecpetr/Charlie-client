@@ -27,7 +27,7 @@
     "lodash": "^4.17.11",
     "material-icons-react": "^1.0.4",
     "materialize-css": "^1.0.0-rc.2",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "moment-range": "^4.0.2",
     "multer": "^1.4.1",
     "node-sass": "^4.11.0",
